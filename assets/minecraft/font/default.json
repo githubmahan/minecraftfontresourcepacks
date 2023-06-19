@@ -2,7 +2,7 @@
     "providers": [
         {
             "type": "ttf",
-            "file": "minecraft:malgungodik.ttf",
+            "file": "minecraft:malgunbdgodik.ttf",
             "shift": [0, 0],
             "size": 9.0,
             "oversample": 4
